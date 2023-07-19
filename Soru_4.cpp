@@ -1,8 +1,11 @@
 ﻿/*
- Negatif olmayan iki tam sayıyı temsil eden boş olmayan iki
-bağlantılı liste verilir. Basamaklar ters sırada saklanır ve
-düğümlerinin her biri tek bir basamak içerir. İki sayıyı toplayın ve
-yeni bağlantılı bir liste olarak döndürün.
+  Negatif olmayan iki tam sayıyı temsil eden iki bağlantılı liste verilmiştir. 
+  Basamaklar ters sırada saklanır ve her düğüm tek bir basamak içerir. 
+  İki sayıyı toplayın ve yeni bir bağlantılı liste olarak geri dönün.
+
+  Two linked lists are given that represent two non-negative integers. 
+  The digits are stored in reverse order and each node contains a single digit. 
+  Sum the two numbers and return as a new linked list.
 */
 
 #include <stdio.h>
